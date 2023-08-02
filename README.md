@@ -1,0 +1,2 @@
+# learningc
+helloworldc for c
